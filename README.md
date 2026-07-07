@@ -1,3 +1,5 @@
+![Banner](./kawaii-perry-the-platypus-pack.png)
+
 ## 👋 Hi there, I'm Nathan!
 
 I'm a computer engineering student, currently exploring different areas of software development.
