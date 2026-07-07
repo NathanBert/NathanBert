@@ -4,6 +4,8 @@ I'm a computer engineering student, currently exploring different areas of softw
 
 I enjoy discovering new tools, experimenting with technologies, and building projects whenever I find the time.
 
+![Visitors](https://komarev.com/ghpvc/?username=NathanBert&color=blue)
+
 ### 🛠️ Languages & Tools
 
 #### Programming Languages
@@ -41,6 +43,4 @@ I enjoy discovering new tools, experimenting with technologies, and building pro
 - Build more personal projects
 - Learn from open-source contributions
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/example.gif" width="400">
-</p>
+
