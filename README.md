@@ -1,4 +1,7 @@
-![Banner](./kawaii-perry-the-platypus-pack.png)
+<p align="center">
+  <img src="./kawaii-perry-the-platypus-pack.png" width="100%">
+</p>
+
 
 ## 👋 Hi there, I'm Nathan!
 
