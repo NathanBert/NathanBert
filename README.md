@@ -4,12 +4,6 @@ I'm a computer engineering student, currently exploring different areas of softw
 
 I enjoy discovering new tools, experimenting with technologies, and building projects whenever I find the time.
 
-![Visitors](https://komarev.com/ghpvc/?username=NathanBert&color=blue)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanBert&show_icons=true&theme=tokyonight" />
-</p>
-
 ### 🛠️ Languages & Tools
 
 #### Programming Languages
