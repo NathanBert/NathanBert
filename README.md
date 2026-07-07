@@ -40,3 +40,7 @@ I enjoy discovering new tools, experimenting with technologies, and building pro
 ### 🚀 Goals
 - Build more personal projects
 - Learn from open-source contributions
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/example.gif" width="400">
+</p>
