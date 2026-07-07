@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./kawaii-perry-the-platypus-pack.png" width="100%">
+  <img src="./kawaii-perry-the-platypus-pack.png" width="10%">
 </p>
 
 
