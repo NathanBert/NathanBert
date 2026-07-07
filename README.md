@@ -6,6 +6,10 @@ I enjoy discovering new tools, experimenting with technologies, and building pro
 
 ![Visitors](https://komarev.com/ghpvc/?username=NathanBert&color=blue)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanBert&show_icons=true&theme=tokyonight" />
+</p>
+
 ### 🛠️ Languages & Tools
 
 #### Programming Languages
@@ -34,6 +38,9 @@ I enjoy discovering new tools, experimenting with technologies, and building pro
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/>
 </a>
 </p>
+
+
+
 
 ### 🌱 Currently learning
 - Trying out new tools and frameworks
